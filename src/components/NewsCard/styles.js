@@ -17,7 +17,7 @@ const styles = makeStyles({
     borderBottom: '10px solid white',
   },
   activeCard: {
-    borderBottom: '10px solid #22289a',
+    borderTop: '10px solid #22289a',
   },
   grid: {
     display: 'flex',
