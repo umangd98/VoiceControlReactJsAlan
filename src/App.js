@@ -43,7 +43,7 @@ function App() {
     <div className="App">
       <div className={classes.logoContainer}>
         <img
-          src="https://alan.app/voice/images/previews/preview.jpg"
+          src="https://voicebot.ai/wp-content/uploads/2019/10/alan.jpg"
           alt="alan-logo"
           className={classes.alanLogo}
         />
